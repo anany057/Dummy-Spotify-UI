@@ -12,3 +12,9 @@ HTML: I used HTML to create the different sections of the page, such as the head
 CSS: I used CSS to style the different elements of the page, such as the fonts, colors, and layouts. I also used CSS to add animations and other effects to the page.
 JavaScript: I used JavaScript to add interactivity and dynamic features.
 
+
+![image](https://github.com/anany057/Dummy-Spotify-UI/assets/112336313/f39f0ccf-5b0f-499f-b05d-941214eb26f9)
+![image](https://github.com/anany057/Dummy-Spotify-UI/assets/112336313/006167ee-f635-44af-9e70-695063e2d03e)
+
+
+

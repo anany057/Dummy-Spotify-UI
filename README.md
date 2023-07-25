@@ -10,5 +10,5 @@ Here is a more detailed explanation of the project:
 
 HTML: I used HTML to create the different sections of the page, such as the header, main content, and footer. I also used HTML to define the structure of the page, such as the order of the elements and the relationships between them.
 CSS: I used CSS to style the different elements of the page, such as the fonts, colors, and layouts. I also used CSS to add animations and other effects to the page.
-JavaScript: I used JavaScript to add interactivity and dynamic features to the page, such as the ability to search for music, play songs, and create playlists.
+JavaScript: I used JavaScript to add interactivity and dynamic features.
 
